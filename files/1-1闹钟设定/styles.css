@@ -2381,7 +2381,7 @@
   width:379px;
   height:593px;
   background:inherit;
-  background-color:rgba(242, 242, 242, 1);
+  background-color:rgba(255, 204, 204, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
@@ -2396,7 +2396,7 @@
 #u184 {
   position:absolute;
   left:1105px;
-  top:147px;
+  top:144px;
   width:379px;
   height:593px;
   font-size:48px;
@@ -3044,7 +3044,7 @@
   width:379px;
   height:593px;
   background:inherit;
-  background-color:rgba(242, 242, 242, 1);
+  background-color:rgba(255, 204, 204, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
@@ -3458,7 +3458,7 @@
   width:432px;
   height:469px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 0);
+  background-color:rgba(255, 204, 204, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -3712,7 +3712,7 @@
   width:383px;
   height:320px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 0);
+  background-color:rgba(255, 204, 204, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
